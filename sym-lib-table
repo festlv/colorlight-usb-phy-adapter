@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "usb3317c")(type "KiCad")(uri "${KIPRJMOD}/usb3317c.kicad_sym")(options "")(descr ""))
+)
